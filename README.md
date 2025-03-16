@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=devops%20developer%20images&imgurl=https%3A%2F%2Fcdn.intuji.com%2F2022%2F04%2FDevOps-Role-Engineer-scaled-1.jpeg&imgrefurl=https%3A%2F%2Fintuji.com%2Fwhat-is-a-devops-engineer%2F&docid=-LfYUHMVKbx7TM&tbnid=3XUCxf7ZZGFECM&vet=12ahUKEwjeib-RmI-MAxVF4zgGHRG0IMIQM3oECFYQAA..i&w=2560&h=1160&hcb=2&ved=2ahUKEwjeib-RmI-MAxVF4zgGHRG0IMIQM3oECFYQAA)](https://pranav6429.io)
+
 <h1 align="center">Hi 👋, I'm Bokam Pranav Sai Aditya</h1>
 <h3 align="center">Cloud & AI Enthusiast | Aspiring SDE & DevOps Engineer | Innovating with Generative AI & Optimization</h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=devops%20images&imgurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwp-content%2Fuploads%2F2019%2F06%2FDevOps-Tools-DevOps-Tutorial-Edureka-1.png&imgrefurl=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fwhat-is-devops%2F&docid=_ww-H0hev-43oM&tbnid=6r0lqJndRNMTGM&vet=12ahUKEwjk-4q5l4-MAxUtSGwGHaGWHYkQM3oECEEQAA..i&w=694&h=417&hcb=2&ved=2ahUKEwjk-4q5l4-MAxUtSGwGHaGWHYkQM3oECEEQAA">
